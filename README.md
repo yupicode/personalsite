@@ -46,13 +46,7 @@ If clicked on the discipline, redirected to a sorted list on the blog with every
 My news about what I'm working on, my life and miscellaneous.
 Appears in a shape of a list of articles with previews and pictures sorted by release date. 
 Everything centralized and sortable with tags.
-When clicked on, opens a page with the whole article readable on it (displayed like a journal) : 
-  * title
-  * text
-  * sources
-  * pictures/videos/musics/sounds
-  * date
-  * tags
+When clicked on, opens a page with the whole article readable on it (displayed like a journal) :  title, text, sources, pictures/videos/musics/sounds, date, tags.
 Can contain pictures, text, videos and musics. 
 
 
