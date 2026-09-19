@@ -6,6 +6,33 @@ Here is the site where all parts of my life will merge, from my creations to my 
 This is also my first serious project so I'm still learning both frontend dev and git use.
 
 ---
+## Features 
+
+* Easy contact with the owner
+  * send a mail directly from the site
+  * leave a private message
+  * find his social medias and his resume
+
+* Ratings
+  * any persons that worked with the owner can leave a rating from 0 to 5 stars with a comment 
+
+* Searching bar
+  * on the blog, you can search an article with words matching in, or with tags, or both
+  * sort results by number of views, date (both ascendant and descendant)
+
+---
+
+## Pages 
+
+* My Work
+
+My portfolio with a showcase of what I can do
+
+* My Blog
+
+My news about what I'm working on, my life and miscellaneous.
+
+---
 
 ## Release History
 
