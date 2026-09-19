@@ -10,17 +10,23 @@ This is also my first serious project so I'm still learning both frontend dev an
 
 * Easy navigation through the pages
   * clickable links on the previews
-  * drop-down menu with direct links
+  * drop-down menu with direct links accesible by clicking a 'Menu' button at the top-right corner
  
 * Easy contact with the owner
   * send a mail directly from the site
   * leave a private message
-  * find his social medias and his resume (pdf and page)
+  * find his social medias and his resume (formal pdf or designed page)
 
 * Searching bar
-  * on the blog, you can search an article with words matching in, or with tags, or both
+  * on the blog, you can search an article with words matching in, or with tags, or both (excluding and including searches)
   * sort results by number of views, date (both ascendant and descendant)
+  * tags are clickable, it shows the result of the search on the actual tag
 
+* Footer
+  * on each pages
+  * contacts, scocial medias
+  * copyrights
+    
 * Responsive on every devices
 
 ---
@@ -50,6 +56,11 @@ Can contain pictures, text, videos and musics.
 * My Resume
 
 Where I studied, worked and what I am actually doing/working for
+
+* Contacts
+
+Where to contact me : phone number, email and social medias
+Integrated direct message system on the site.
 
 ---
 
