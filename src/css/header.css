@@ -1,0 +1,21 @@
+header{
+    top:0px;
+    position:absolute
+}
+header nav{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    margin: auto 40%;
+}
+header nav ul{
+    margin: auto 15px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+header nav ul li{
+    margin: auto 15px;
+    padding: auto;
+    width: 500px;
+}
